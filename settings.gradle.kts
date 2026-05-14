@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Reshme namma pride"
 include(":app")
+include(":app")
