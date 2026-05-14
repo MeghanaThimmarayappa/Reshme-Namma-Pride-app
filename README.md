@@ -1,1 +1,0 @@
-# Reshme-Namma-Pride-app
